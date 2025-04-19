@@ -23,30 +23,5 @@
     "index": "curiosity",
     "pri.store.size": "8194014",
     "pri": "1"
-  },
-  {
-    "index": "secluded",
-    "pri.store.size": "689537000000",
-    "pri": "1"
-  },
-  {
-    "index": "postage",
-    "pri.store.size": "1410107",
-    "pri": "5"
-  },
-  {
-    "index": "chamomile",
-    "pri.store.size": "195229",
-    "pri": "1"
-  },
-  {
-    "index": "oblivion",
-    "pri.store.size": "537619000000",
-    "pri": "7"
-  },
-  {
-    "index": "express",
-    "pri.store.size": "901261200000",
-    "pri": "2"
   }
 ]
